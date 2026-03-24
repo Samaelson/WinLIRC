@@ -2,7 +2,7 @@
 
 ![Build Release](https://github.com/leg0/WinLIRC/workflows/Build%20Release/badge.svg?branch=master)
 
-Forked from http://winlirc.sourceforge.net/
+Forked from https://github.com/leg0/WinLIRC that forked from http://winlirc.sourceforge.net/
 
 # Prerequisites
 
